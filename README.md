@@ -1,6 +1,4 @@
-<p align="center">
-  <big><big><strong>💫 About Me</strong></big></big>
-</p>
+<h3 align="center">💫 About Me</h3>
 
   🧑‍💻 <b>Currently building</b> practical software projects while exploring ideas in FinTech, Web3, and digital platforms.<br>
   🧑‍🤝‍🧑 <b>Open to collaborating</b> on creative and meaningful tech projects where I can contribute, learn, and build something genuinely useful.<br>
@@ -9,11 +7,8 @@
   💬 <b>Ask me about</b> software development, Web3, Bitcoin, investing, technology, or random philosophical questions that somehow turn into a two-hour discussion.<br>
   ⚡ <b>Fun fact:</b> I've been fascinated by technology and unconventional thinking since middle school, and somehow manage to mix coding, finance, philosophy, and cats into the same conversation.
 
-<br>
 
-<p align="center">
-  <big><big><strong>🌐 Socials</strong></big></big>
-</p>
+<h3 align="center">🌐 Socials</h3>
 
 <p align="center">
   <a href="https://instagram.com/grnzaaa_">
@@ -45,12 +40,7 @@
   </a>
 </p> 
 
-<br>
-
-<p align="center">
-  <big><big><strong>💻 Tech Stack</strong></big></big>
-</p>
-
+<h3 align="center">💻 Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -78,12 +68,7 @@
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 </p>
 
-<br>
-
-<p align="center">
-  <big><big><strong>📊 GitHub Stats</strong></big></big>
-</p>
-
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=grnzaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
@@ -93,41 +78,24 @@
   <img src="https://streak-stats.demolab.com/?user=grnzaa&theme=dark&hide_border=true" width="51.2%" />
 </div>
 
-<br>
-
-<p align="center">
-  <big><big><strong>🏆 GitHub Trophies</strong></big></big>
-</p>
+<h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=grnzaa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="none"/>
 </p>
 
-<br>
-
-<p align="center">
-  <big><big><strong>✍️ Random Dev Quote</strong></big></big>
-</p>
-
+<h3 align="center">✍️ Random Dev Quote</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<br>
-
-<p align="center">
-  <big><big><strong>🔝 Top Contributed Repo</strong></big></big>
-</p>
+<h3 align="center">🔝 Top Contributed Repo</h3>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=grnzaa&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="none"/>
 </p>
 
-<br>
-
-<p align="center">
-  <big><big><strong>💰 You can help me by Donating</strong></big></big>
-</p>
+<h3 align="center">💰 You can help me by Donating</h3>
 <p align="center">
   <a href="https://buymeacoffee.com/grnza">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
